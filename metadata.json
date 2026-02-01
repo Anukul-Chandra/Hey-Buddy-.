@@ -1,0 +1,7 @@
+{
+  "name": "Hey Buddy - English Coach",
+  "description": "Your personal AI English language coach. Practice speaking English with real-time feedback in Banglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
